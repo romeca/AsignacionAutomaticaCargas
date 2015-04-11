@@ -12,3 +12,9 @@ C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutom
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.csprojResolveAssemblyReference.cache
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.dll
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.pdb
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\bin\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.pdb
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\bin\Debug\ITCR.AsignacionAutomaticaCargas.Datos.dll
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\bin\Debug\ITCR.AsignacionAutomaticaCargas.Datos.pdb
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.dll
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Negocios\obj\Debug\ITCR.AsignacionAutomaticaCargas.Negocios.pdb

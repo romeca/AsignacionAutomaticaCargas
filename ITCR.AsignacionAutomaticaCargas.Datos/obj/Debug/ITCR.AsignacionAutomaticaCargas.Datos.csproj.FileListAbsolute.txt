@@ -7,3 +7,8 @@ C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutom
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\bin\Debug\ITCR.AsignacionAutomaticaCargas.Datos.pdb
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\obj\Debug\ITCR.AsignacionAutomaticaCargas.Datos.dll
 C:\Users\PC-Tatiana\Desktop\ITCR.AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\obj\Debug\ITCR.AsignacionAutomaticaCargas.Datos.pdb
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\bin\Debug\ITCR.AsignacionAutomaticaCargas.Datos.dll
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\bin\Debug\ITCR.AsignacionAutomaticaCargas.Datos.pdb
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\obj\Debug\ITCR.AsignacionAutomaticaCargas.Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\obj\Debug\ITCR.AsignacionAutomaticaCargas.Datos.dll
+C:\Users\PC-Tatiana\Documents\AsignacionAutomaticaCargas\ITCR.AsignacionAutomaticaCargas.Datos\obj\Debug\ITCR.AsignacionAutomaticaCargas.Datos.pdb
